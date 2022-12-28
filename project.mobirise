@@ -278,7 +278,7 @@
         "main": true,
         "title": "ورشة متنقلة الرياض | ورشة متنقلة لإصلاح السيارات في الرياض",
         "meta_descr": "ورشة متنقلة في خدمتكم في أي ما كنتم تصليح كهرباء وميكانيك وبنشر جميع انواع سيارات يوجد لدينا تصفيه عامه يوجد دينموات وسلفات مراوح طرمبات بنزين تركيب سفايف وبطاريات مع كفالة تصليح ذراع جام جميع انواع سيارات تعبئة غاز تركيب ثلاجات مكيف",
-        "header_custom": "<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"language\" content=\"Arabic\">",
+        "header_custom": "<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"language\" content=\"Arabic\">\n\n      <!--  ClickCease.com tracking-->\n      <script type='text/javascript'>var script = document.createElement('script');\n      script.async = true; script.type = 'text/javascript';\n      var target = 'https://www.clickcease.com/monitor/stat.js';\n      script.src = target;var elem = document.head;elem.appendChild(script);\n      </script>\n      <noscript>\n      <a href='https://www.clickcease.com' rel='nofollow'><img src='https://monitor.clickcease.com' alt='ClickCease'/></a>\n      </noscript>\n      <!--  ClickCease.com tracking-->",
         "footer_custom": "",
         "html_before": ""
       },
